@@ -1,4 +1,4 @@
-# Notion – All-in-One Workspace for macOS  
+# Notion – All-in-One Workspace
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="250"/>
 </div>  
